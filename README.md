@@ -1,4 +1,6 @@
-![](./cyberpunk-header.jpg)
+<a href="https://jacob.day">
+  <img src="./cyberpunk-header.jpg"/>
+</a>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/dayjacobm">
